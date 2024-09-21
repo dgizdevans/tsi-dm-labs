@@ -1,6 +1,4 @@
-> Practical work in the Data Mining subject within the Data Analytics and Artificial Intelligence Master's program of TSI and UWE Universities.
-
-https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/
+> Practical work in the Data Mining subject within the [Data Analytics and Artificial Intelligence Master's program of TSI and UWE Universities.] (https://tsi.lv/study_programmes/double-degree-in-computer-sciencedata-analytics-and-artificial-intelligence/)
 
 - Computer Practice 1: Data exploration and visualisation:
   https://github.com/dgizdevans/tsi-dm-labs/blob/main/Lab1-DG.ipynb
